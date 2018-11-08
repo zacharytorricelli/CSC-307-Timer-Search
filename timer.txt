@@ -1,0 +1,6 @@
+		 Selection Sort		 Bubble Sort		 Insertion Sort
+Array 1			64탎			52탎			2탎
+Array 2			63탎			53탎			1탎
+Array 3			61탎			53탎			1탎
+Array 4			63탎			52탎			2탎
+The unit of measure is microseconds.
